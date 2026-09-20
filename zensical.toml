@@ -1,39 +1,20 @@
 [project]
 site_name = "PARE - Planificación y Administración de Redes y Equipos"
-site_url = "https://raul-profesor.github.io/PARE"
+site_url = "https://raul-profesor.github.io/sostenibilidadº"
 dev_addr = "localhost:9090"
 extra_css = ["stylesheets/extra.css"]
 # Tema Material
 nav = [
     {Home = "index.md"},
-    {Introduccion = [
-        "UD1dispositivos_de_red.md",
-        "UD2fisica.md",
-        "UD3modeloTCPIP.md",
-        "UD4CiscoCLI.md",
-        "UD5Switching.md",
-        "institut_estandard.md"
+    {Unidad 1 = [
+        
+
     ]},
-    {Switch = [
-        "VLANS.md",
-        "spanning_tree.md",
-        "SecSwitches.md",
-        "dtp.md",
-         "cheatsheet_routers.md"
+    {Unidad 2 = [
+        "Resumen_extenso_UD1.md",
     ]},
-    {Enrutamiento = [
-        "direccionamientoIP.md",
-        "subnetting.md",
-        "routing.md",
-        "vida_paquete.md",
-        "routers_y_rutas_estaticas.md",
-        "rutas_dinamicas.md",
-        "RIP_RIPv2.md",
-        "ospf.md",
-        "intervlan.md",
-        "acl_estandar.md",
-        "acl_extendida.md",
-        "nat.md"
+    {Unidad 3 = [
+        "Resumen_extenso_UD2.md",
     ]}
 ]
 
