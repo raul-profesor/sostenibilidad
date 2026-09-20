@@ -1,6 +1,6 @@
 [project]
-site_name = "PARE - Planificación y Administración de Redes y Equipos"
-site_url = "https://raul-profesor.github.io/sostenibilidadº"
+site_name = "Sostenibilidad aplicada al sector productivo"
+site_url = "https://raul-profesor.github.io/sostenibilidad"
 dev_addr = "localhost:9090"
 extra_css = ["stylesheets/extra.css"]
 # Tema Material
@@ -11,6 +11,18 @@ nav = [
     ]},
     {Unidad2 = [
         "Resumen_extenso_UD2.md",
+    ]},
+    {Unidad3 = [
+        "Resumen_extenso_UD3.md",
+    ]},
+    {Unidad4 = [
+        "Resumen_extenso_UD4.md",
+    ]},
+    {Unidad5 = [
+        "Resumen_extenso_UD5.md",
+    ]},
+    {Unidad6 = [
+        "Resumen_extenso_UD6.md",
     ]}
 ]
 

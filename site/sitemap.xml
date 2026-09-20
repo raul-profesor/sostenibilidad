@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://raul-profesor.github.io/sostenibilidadº/Resumen_extenso_UD1/</loc>
+        <loc>https://raul-profesor.github.io/sostenibilidad/</loc>
       </url>
       <url>
-        <loc>https://raul-profesor.github.io/sostenibilidadº/Resumen_extenso_UD2/</loc>
+        <loc>https://raul-profesor.github.io/sostenibilidad/Resumen_extenso_UD1/</loc>
+      </url>
+      <url>
+        <loc>https://raul-profesor.github.io/sostenibilidad/Resumen_extenso_UD2/</loc>
+      </url>
+      <url>
+        <loc>https://raul-profesor.github.io/sostenibilidad/Resumen_extenso_UD3/</loc>
+      </url>
+      <url>
+        <loc>https://raul-profesor.github.io/sostenibilidad/Resumen_extenso_UD4/</loc>
+      </url>
+      <url>
+        <loc>https://raul-profesor.github.io/sostenibilidad/Resumen_extenso_UD5/</loc>
+      </url>
+      <url>
+        <loc>https://raul-profesor.github.io/sostenibilidad/Resumen_extenso_UD6/</loc>
       </url>
 </urlset>

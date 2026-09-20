@@ -1,12 +1,8 @@
-# Resumen extenso — Sostenibilidad aplicada al sistema productivo (UD2)
-
-**Fuente:** Carmen López Pérez, *Sostenibilidad aplicada al sistema productivo* (TuLibrodeFP, 2024), páginas 32–53.
-**Unidad 2:** Retos ambientales y sociales de la sociedad actual.
-
-!!! info "Ficha de la unidad"
-    - **Encuadre:** la sociedad actual debe compaginar desarrollo económico con equilibrio medioambiental y social.
-    - **Bloques:** retos ambientales y sociales → actividades económicas que los provocan → efectos en cascada → medidas y alianzas.
-    - **Cierra con:** ODS 17 y los fondos europeos/españoles para financiar la transición (Fondo de Transición Justa, ICO Verde).
+---
+lang: es
+title: UD2-Los retos ambientales y sociales actuales
+---
+# Los retos ambientales y sociales actuales
 
 ## 1. Los retos ambientales y sociales actuales
 
@@ -393,6 +389,7 @@ Fortalecer la alianza mundial movilizando e intercambiando **conocimientos, capa
 
 !!! abstract "Tres pasos para centrar las alianzas internacionales"
     **1) Metas de estímulo al compromiso**
+
     - Fijar valores de referencia nacionales.
     - Invertir en capacidad del sector público e infraestructuras.
     - Reconocer a los gobiernos locales y subnacionales como pilares del logro.
@@ -402,6 +399,7 @@ Fortalecer la alianza mundial movilizando e intercambiando **conocimientos, capa
     - Intensificar monitoreo, seguimiento y examen.
 
     **2) Metas para salvar a las personas**
+
     - Protección social universal adaptable a crisis.
     - Transformación digital inclusiva.
     - Servicios esenciales y crisis educativa.
@@ -412,6 +410,7 @@ Fortalecer la alianza mundial movilizando e intercambiando **conocimientos, capa
     - Prevenir y reducir riesgos de desastre.
 
     **3) Metas de transformación estructural**
+
     - Plan de estímulo para los ODS y reforma de la arquitectura financiera internacional.
     - Comercio a favor de los ODS.
     - Maximizar el multilateralismo del sistema de NN.UU.
@@ -446,6 +445,7 @@ Mecanismo de cooperación internacional que reúne recursos financieros y técni
 ## 6. Glosario rápido
 
 !!! abstract "Términos clave de la unidad"
+
     - **GEI:** Gases de Efecto Invernadero (CO₂, CH₄, N₂O…).
     - **AOD:** Ayuda Oficial al Desarrollo.
     - **OCDE / CAD:** Organización para la Cooperación y el Desarrollo Económicos / Comité de Ayuda al Desarrollo.
@@ -468,13 +468,13 @@ Mecanismo de cooperación internacional que reúne recursos financieros y técni
     - España 2021: **115,4 Mt** de residuos (+10 %).
     - Residuos urbanos por habitante 2021: **478,7 kg** (+4,3 %).
     - Reserva hídrica España: **50,8 %** de capacidad.
-    - 95 % del transporte terrestre de mercancías en España: por carretera.
-    - 25 000 t/año de crema solar llegan a los océanos.
-    - Producción de carne: **18 %** de emisiones GEI globales (más que el transporte).
+    - 95% del transporte terrestre de mercancías en España: por carretera.
+    - 25.000 t/año de crema solar llegan a los océanos.
+    - Producción de carne: **18%** de emisiones GEI globales (más que el transporte).
     - Consumo de agua del sector pecuario español: equivalente a **21 años** del consumo de todos los hogares.
-    - 26,5 % de la población española en riesgo de pobreza o exclusión social (2023).
-    - 20 % más rico tiene **5,5 veces** la renta del 20 % más pobre.
-    - 20,43 % de la población española con más de 65 años.
+    - 26,5% de la población española en riesgo de pobreza o exclusión social (2023).
+    - 20% más rico tiene **5,5 veces** la renta del 20% más pobre.
+    - 20,43% de la población española con más de 65 años.
     - España en transparencia: puesto **36** mundial (4.º año consecutivo de bajada).
     - AOD España 2022: **0,3 %** del PNB (compromiso: 0,7 %).
     - Fondo de Transición Justa UE: **17 500 M€** (2021-2027).

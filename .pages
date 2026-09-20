@@ -1,6 +1,0 @@
-nav:
-    - Seguridad en switches: SecSwitches.md
-    - DTP (Dynamic Trunking Protocol): dtp.md
-    - Cheatsheet routers Cisco: cheatsheet_routers.md
-    - Enrutamiento estático: routers_y_rutas_estaticas.md
-    - Enrutamiento dinámico: rutas_dinamicas.md  

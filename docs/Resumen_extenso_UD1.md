@@ -1,32 +1,9 @@
-# Resumen extenso — Sostenibilidad aplicada al sistema productivo (UD1)
+---
+lang: es
+title: UD1-Los aspectos ambientales, sociales y de gobernanza (ASG)
+---
 
-**Fuente:** Carmen López Pérez, *Sostenibilidad aplicada al sistema productivo* (TuLibrodeFP, 2024), páginas 1–28.
-**Unidad 1:** Los aspectos ambientales, sociales y de gobernanza (ASG).
-
-!!! info "Ficha del libro"
-    - **Autora:** Carmen López Pérez.
-    - **Editorial:** TuLibrodeFP, 2024.
-    - **Audiencia:** módulo de FP "Sostenibilidad aplicada al sistema productivo".
-    - **Recursos:** 300 vínculos web, 72 vídeos, 157 actividades, test por unidad.
-    - **Estructura:** una unidad = un resultado de aprendizaje; un epígrafe = un criterio de evaluación.
-    - **Lema:** *"Quizás entre todos consigamos no dejar huella"* — Carmen López.
-
-## Acerca del libro
-
-Libro de texto para el módulo de Formación Profesional. La autora, profesora de Administración de Empresas, lo plantea como herramienta para ligar los aprendizajes del módulo con los **Resultados de Aprendizaje** y **Criterios de Evaluación** del currículo.
-
-!!! note "Decisiones pedagógicas"
-    - Cada unidad didáctica corresponde a un único resultado de aprendizaje.
-    - Cada epígrafe se ajusta a un único criterio de evaluación (salvo excepciones justificadas).
-    - Se respeta el orden oficial de los criterios de evaluación.
-
-!!! tip "Recursos del libro"
-    - 300 vínculos web.
-    - 72 vídeos explicativos.
-    - 157 actividades prácticas.
-    - Test de repaso al final de cada unidad.
-    - Análisis de programas como *El escarabajo verde*, *En portada* o *Salvados*.
-    - Informes de más de 65 organizaciones y empresas reales.
+# Los aspectos ambientales, sociales y de gobernanza (ASG)
 
 ## 1. La sostenibilidad en el proceso productivo
 
@@ -296,18 +273,21 @@ El cumplimiento genera una identidad de marca comprometida y mejora el posiciona
 
 !!! example "Iberdrola — objetivos ASG"
     **Ambientales:**
+
     - Alcanzar las **cero emisiones netas (Net Zero)**.
     - Reducir emisiones de CO₂ (**Carbon Neutral**).
     - Mejorar el **reciclado de palas eólicas**.
     - Aumentar el uso de **hidrógeno verde**.
 
     **Sociales:**
+
     - Presencia de mujeres en posiciones de relevancia.
     - **Certificación externa de igualdad salarial**.
     - Mejorar el ratio de accidentabilidad.
     - Comprar a **proveedores locales y/o sostenibles**.
 
     **Gobernanza:**
+
     - ≥ **50 % de miembros independientes** en el Consejo.
     - ≥ **40 % de mujeres** en el Consejo.
     - Promover diversidad en el Consejo.
@@ -337,10 +317,12 @@ Buscan **estandarizar los informes no financieros** y reemplazar la práctica de
 
 !!! abstract "ESRS — Estructura en 12 documentos"
     **Generales**
+
     - **ESRS 1** — Requisitos generales.
     - **ESRS 2** — Contenidos empresariales.
 
     **Ambientales**
+
     - **E1** — Cambio climático.
     - **E2** — Contaminación.
     - **E3** — Recursos hídricos y marinos.
@@ -348,12 +330,14 @@ Buscan **estandarizar los informes no financieros** y reemplazar la práctica de
     - **E5** — Uso de recursos y economía circular.
 
     **Sociales**
+
     - **S1** — Fuerza laboral propia.
     - **S2** — Trabajadores de la cadena de valor.
     - **S3** — Comunidades afectadas.
     - **S4** — Consumidores y usuarios.
 
     **Gobernanza**
+    
     - **G1** — Conducta empresarial.
 
 ### 6.3 Rendición de cuentas
