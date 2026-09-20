@@ -6,10 +6,10 @@ extra_css = ["stylesheets/extra.css"]
 # Tema Material
 nav = [
     {Home = "index.md"},
-    {Unidad 1 = [
+    {Unidad1 = [
         "Resumen_extenso_UD1.md",
     ]},
-    {Unidad 2 = [
+    {Unidad2 = [
         "Resumen_extenso_UD2.md",
     ]}
 ]
