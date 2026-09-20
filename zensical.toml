@@ -7,13 +7,9 @@ extra_css = ["stylesheets/extra.css"]
 nav = [
     {Home = "index.md"},
     {Unidad 1 = [
-        
-
-    ]},
-    {Unidad 2 = [
         "Resumen_extenso_UD1.md",
     ]},
-    {Unidad 3 = [
+    {Unidad 2 = [
         "Resumen_extenso_UD2.md",
     ]}
 ]
