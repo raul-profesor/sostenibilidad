@@ -18,7 +18,6 @@ nav = [
     ]}
 ]
 
-
 [project.theme]
 name = "material"
 language = "es"
